@@ -14,4 +14,12 @@ Test your understanding, learn fascinating new facts, and enjoy a stimulating me
 
 ![Quiz Demo](https://github.com/cmdlinezero/quizzrr/blob/main/screenshots/quizzrr-main.png "Mobile App")
 
+## Contributing
+
+Contributions are always welcome - see [CONTRIBUTING.md](https://github.com/cmdlinezero/quizzrr/blob/main/CONTRIBUTING.md) for more information.
+
+## License
+
+GPE-3.0 - see [LICENSE](https://github.com/cmdlinezero/quizzrr/blob/main/LICENSE.md) for more information.
+
 Copyright (c) CmdLineZero 2025
