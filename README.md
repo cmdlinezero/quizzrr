@@ -25,6 +25,18 @@ General Knowledge datasets
 | Demo    | demo | Free | Tutorial level featuring general trivia questions |
 | General | general | Free | General level featuring the most common trivia questions |
 
+### A-Level
+
+A Level revision for core subjects
+
+| Subject | code | Tier | Description |
+|---------|------|------|-------------|
+| aqa-pychology | a001 | Free | A Level trivia questions |
+| aqa-sociology | a002 | Free | A Level trivia questions |
+| edexcel-mathematics | a003 | Free | A Level trivia questions |
+| edexcel-economics | a004  | Free | A Level trivia questions |
+| ocr-biology | a005| Free | A Level trivia questions |
+
 ### Google Cloud Tier
 
 Google Cloud Examinations
